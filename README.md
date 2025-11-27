@@ -1,4 +1,6 @@
-# Recursividade em C
+# Técnicas de Desenvolvimento de Algoritmos
+
+## Recursividade em C
 
 Exemplo prático: cálculo de fatorial com animação da pilha
 
