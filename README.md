@@ -171,7 +171,7 @@ Visualizar a integração dos três conceitos
 ## Código Fonte
 
 ```
-C
+c
 
 #include <stdio.h>
 
